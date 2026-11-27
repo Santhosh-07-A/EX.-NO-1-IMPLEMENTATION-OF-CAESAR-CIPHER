@@ -1,6 +1,6 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-# Name: Abhishek Kannan M
-# Reg no: 212224040007
+# Name: Santhosh A
+# Reg no: 212225040378
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
